@@ -8,3 +8,8 @@
   box-shadow: none;
   border: none;
 }
+ul{
+  list-style-type: none;
+  padding: 1em;
+  line-height: 30px;
+}
